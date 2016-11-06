@@ -1,6 +1,6 @@
 body {
-    margin: 0px;
     background-color: #d2d2d2;
+    font-family: "Arial", Serif;
 }
 
 #logo {
@@ -36,21 +36,40 @@ a {
     text-decoration: none;
 }
 
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #666666;	
+}
+
 li:hover {
     background-color: #fff;
 }
 
 #nav {
+    margin: 0px;
     background-color: #eee;
     width:100%;
     display: inline-block;
+}
+
+.container {
+    display: inline-block;
+}
+
+.articleboxes {
+    margin: 20px;	
 }
 
 #big-img {
     width: 50%;
 }
 
-#pinned {
+.articles {
     border-style: solid;
+    padding: 10px;
 }
 
