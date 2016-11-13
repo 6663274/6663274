@@ -49,11 +49,18 @@ li:hover {
     background-color: #fff;
 }
 
-#nav {
+#nav-container {
     margin: 0px;
     background-color: #eee;
     width:100%;
     display: inline-block;
+}
+
+#nav {
+    margin: 0px auto 0px auto;
+    padding: 0px;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .container {
