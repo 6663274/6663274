@@ -64,6 +64,11 @@ li:hover {
     vertical-align: middle;
 }
 
+#thing {
+    display: inline-block;
+    vertical-align: middle;
+}
+
 .container {
     display: inline-block;
     float: left;
