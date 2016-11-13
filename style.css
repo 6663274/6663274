@@ -66,6 +66,13 @@ li:hover {
 
 .container {
     display: inline-block;
+    float: left;
+}
+
+.container2 {
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .articleboxes {
