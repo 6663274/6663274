@@ -64,20 +64,14 @@ li:hover {
     vertical-align: middle;
 }
 
-#thing {
-    display: inline-block;
-    vertical-align: middle;
-}
-
 .container {
+    width: 20%
     display: inline-block;
-    float: left;
 }
 
 .container2 {
+    width: 60%;
     display: inline-block;
-    margin-left: 180px;
-    margin-right: 180px;
 }
 
 .articleboxes {
