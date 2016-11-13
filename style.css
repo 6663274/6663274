@@ -64,7 +64,11 @@ li:hover {
     vertical-align: middle;
 }
 
-.container {
+#triple {
+    vertical-align: middle   
+}
+
+.container1 {
     width: 20%;
     display: inline-block;
     text-align: center;
