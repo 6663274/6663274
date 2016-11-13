@@ -65,18 +65,19 @@ li:hover {
 }
 
 #triple {
-    vertical-align: top;
 }
 
 .container1 {
     width: 20%;
     display: inline-block;
     text-align: center;
+    vertical-align: top;
 }
 
 .container2 {
     width: 60%;
     display: inline-block;
+    vertical-align: top;
 }
 
 .articleboxes {
