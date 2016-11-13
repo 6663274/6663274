@@ -80,6 +80,13 @@ li:hover {
     vertical-align: top;
 }
 
+.container3 {
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+
 .articleboxes {
     margin: 20px;	
 }
